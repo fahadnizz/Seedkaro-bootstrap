@@ -1,0 +1,10 @@
+*{margin: 0%;padding: 0px;}
+.aa1:hover{border: 2px solid black;}
+.aa2:hover{border: 2px solid black;}
+.aa3:hover{border: 2px solid black;}
+.aa4:hover{border: 2px solid black;}
+.aa5:hover{border: 2px solid black;}
+.ab{
+   height: 520px;width: 350px; background-image: url(images/i.jpg);background-repeat: no-repeat;background-size: contain;
+}
+.abc1{background-image: url(images/1111.jpeg); background-repeat: no-repeat;background-size: contain;height: 550px;width:100%;margin-top: 1000px;}
